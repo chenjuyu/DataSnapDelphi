@@ -1,0 +1,31 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = #26381#21153#31471
+  ClientHeight = 231
+  ClientWidth = 505
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -16
+  Font.Name = #24494#36719#38597#40657
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 21
+  object pnl1: TPanel
+    Left = 96
+    Top = 72
+    Width = 297
+    Height = 73
+    BevelOuter = bvNone
+    Caption = #26381#21153#22120#31243#24207#19981#21487#20851#38381
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clRed
+    Font.Height = -16
+    Font.Name = #24494#36719#38597#40657
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 0
+  end
+end
